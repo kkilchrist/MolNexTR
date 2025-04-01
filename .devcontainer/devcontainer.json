@@ -16,5 +16,5 @@
       "disableAutomaticConfiguration": false
     }
   },
-  "postCreateCommand": "pip install -r requirements.txt"
+"postCreateCommand": "pip install -r .devcontainer/requirements.txt"
 }
